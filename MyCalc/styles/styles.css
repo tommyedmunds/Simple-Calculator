@@ -1,0 +1,74 @@
+.calc {
+  background-color: grey;
+  width: 50vh;
+  margin-left: 15%;
+  margin-top: 5%;
+  height: 75vh;
+}
+
+.calcScreen {
+  width: 100%;
+  margin-right: 0;
+  height: 10%;
+  font-size: large;
+}
+
+.screen {
+  margin-top: 4%;
+  padding-left: 2%;
+  background-color: aliceblue;
+  height: 5%;
+  border-style: solid;
+}
+
+.key {
+  height: 50px;
+  background-color: aliceblue;
+  margin-left: 2%;
+  margin-top: 2%;
+}
+
+.operator {
+  height: 50px;
+  background-color: aliceblue;
+  margin-left: 2%;
+  margin-top: 2%;
+}
+
+.ac {
+  height: 50px;
+  background-color: aliceblue;
+  margin-left: 2%;
+  margin-top: 2%;
+  padding-bottom: 2%;
+}
+
+.decimal {
+  padding-bottom: 2%;
+}
+
+.equals {
+  height: 50px;
+  background-color: aliceblue;
+  margin-left: 2%;
+  margin-top: 2%;
+}
+
+.row1 {
+  justify-content: center;
+  margin-left: 3%;
+  margin-top: 25%;
+  width: 95%;
+}
+
+.row2 {
+  justify-content: center;
+  margin-left: 3%;
+  width: 95%;
+}
+
+.row3 {
+  justify-content: center;
+  margin-left: 3%;
+  width: 95%;
+}
