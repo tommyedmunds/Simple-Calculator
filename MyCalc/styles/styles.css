@@ -1,7 +1,8 @@
 .calc {
   background-color: grey;
   width: 50vh;
-  margin-left: 15%;
+  margin-left: auto;
+  margin-right: auto;
   margin-top: 5%;
   height: 75vh;
 }
